@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.caramat.mharvin.block2.p1.quiz"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.caramat.mharvin.block2.p1.quiz"
